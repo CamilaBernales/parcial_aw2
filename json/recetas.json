@@ -1,0 +1,31 @@
+{
+    "recetas": [
+      {
+        "id": 1,
+        "nombre": "Torta",
+        "ingredientes": [
+          {"id": 1, "cantidad": 2},
+          {"id": 2, "cantidad": 3},
+          {"id": 3, "cantidad": 1}
+        ]
+      },
+      {
+        "id": 2,
+        "nombre": "Pan",
+        "ingredientes": [
+          {"id": 1, "cantidad": 1},
+          {"id": 2, "cantidad": 2},
+          {"id": 3, "cantidad": 2}
+        ]
+      },
+      {
+        "id": 3,
+        "nombre": "Budin",
+        "ingredientes": [
+          {"id": 2, "cantidad": 4},
+          {"id": 3, "cantidad": 2}
+        ]
+      }
+    ]
+  }
+  
